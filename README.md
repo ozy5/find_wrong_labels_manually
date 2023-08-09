@@ -29,7 +29,7 @@ Yani yapılabilecek en iyi tahmin ile resimdeki label arasındaki IoU oranı 0.5
 ![IoU değeri örnekleri](IoU_örnekleri/IoU_sample_1.png "IoU değeri örnekleri").
 ![IoU değeri örnekleri](IoU_örnekleri/IoU_sample_3.png "IoU değeri örnekleri").
 ### !!!!! Ayırt etmesi zor
-Eğer bir insan label'a baktığında kuş mu, uçak mı, drone mu yoksa süperman mi ayırt etmekte çok zorlanıyorsa ve "Bu yüksek ihtimalle drone'dur ya" diyemiyorsa, bu tarz labellar modelin sınıflar arası ayrım yapabilme yeteneğini azaltmakta.\
+Eğer bir insan label'a baktığında kuş mu, uçak mı, drone mu yoksa superman mi ayırt etmekte çok zorlanıyorsa ve "Bu yüksek ihtimalle drone'dur ya" diyemiyorsa, bu tarz labellar modelin sınıflar arası ayrım yapabilme yeteneğini azaltmakta.\
 Not: Eğer yapılan modeldeki asıl amaç bir sınıfı öncelikli olarak tespit etmekse ve bu sınıf olduğundan emin olunamayan labellar bulunuyorsa bunlar datasete dahil edilebilir.\
 \
 Ayırt etmesi zor label örneği:\
